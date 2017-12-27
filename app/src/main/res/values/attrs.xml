@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="bg_color" format="color" />
+    <attr name="border_width" format="dimension" />
+    <attr name="border_color" format="color" />
+    <attr name="icon_normal" format="reference" />
+    <attr name="icon_while" format="reference" />
+    <attr name="color_nor" format="color" />
+    <attr name="color_sel" format="color" />
+    <attr name="icon_text" format="string" />
+    <attr name="text_size" format="dimension" />
+    <attr name="head_size" format="dimension" />
+    <attr name="sel_background" format="color" />
+    <attr name="nor_background" format="color" />
+    <attr name="wvIcon" format="reference" />
+    <attr name="wvIconWidth" format="dimension" />
+    <attr name="wvIconHeight" format="dimension" />
+    <attr name="wvRange" format="integer" />
+    <attr name="wvRealVal" format="reference" />
+    <attr name="wvEmptyVal" format="reference" />
+    <attr name="wvIconOffset" format="dimension" />
+    <attr name="wvValOffset" format="dimension" />
+    <attr name="wvIsDrawVoice" format="boolean" />
+    <attr name="wvAnimationStatus" format="boolean" />
+    <attr name="rv_alpha" format="integer" />
+    <attr name="rv_framerate" format="integer" />
+    <attr name="rv_rippleDuration" format="integer" />
+    <attr name="rv_zoomDuration" format="integer" />
+    <attr name="rv_color" format="color" />
+    <attr name="rv_centered" format="boolean" />
+    <attr name="rv_type">
+        <enum name="doubleRipple" value="1" />
+        <enum name="rectangle" value="2" />
+        <enum name="simpleRipple" value="0" />
+    </attr>
+    <attr name="rv_ripplePadding" format="dimension" />
+    <attr name="rv_zoom" format="boolean" />
+    <attr name="rv_zoomScale" format="float" />
+    <attr name="borderRadius" format="dimension" />
+    <attr name="type">
+        <enum name="circle" value="0" />
+        <enum name="round" value="1" />
+    </attr>
+    <attr name="bounded_width" format="dimension" />
+    <attr name="bounded_height" format="dimension" />
+    <attr name="list_item_txtNum_marginLeft" format="dimension" />
+    <attr name="list_item_txtNum_width" format="dimension" />
+    <attr name="list_item_txtNum_height" format="dimension" />
+    <attr name="list_item_txtNum_textSize" format="dimension" />
+    <attr name="list_item_txtContent_textSize" format="dimension" />
+    <attr name="list_item_txtDesc_textSize" format="dimension" />
+    <attr name="list_item_wx_head_width" format="dimension" />
+    <attr name="list_item_wx_head_height" format="dimension" />
+    <attr name="list_item_content_marginTop" format="dimension" />
+    <attr name="list_item_content_marginBottom" format="dimension" />
+    <attr name="list_item_divider_height" format="dimension" />
+    <attr name="list_item_layout_content_marginLeft" format="dimension" />
+    <attr name="list_item_txtContent_marginLeft" format="dimension" />
+    <attr name="list_item_help_icon_width" format="dimension" />
+    <attr name="list_item_help_icon_height" format="dimension" />
+    <attr name="help_icon_width" format="dimension" />
+    <attr name="help_icon_height" format="dimension" />
+    <attr name="list_item_txtChat_minHeight" format="dimension" />
+    <attr name="list_item_txtChat_textSize" format="dimension" />
+    <attr name="stock_pic_width" format="dimension" />
+    <attr name="stock_pic_height" format="dimension" />
+    <attr name="stock_info_ly_width" format="dimension" />
+    <attr name="stock_maxWidth" format="dimension" />
+    <attr name="weather_maxWidth" format="dimension" />
+    <attr name="record_win_circle_ly_width" format="dimension" />
+    <attr name="record_win_circle_ly_height" format="dimension" />
+    <attr name="record_win_voice_view_width" format="dimension" />
+    <attr name="record_win_voice_view_height" format="dimension" />
+    <attr name="MusicMoveColor" format="color" />
+    <attr name="text" format="reference|string" />
+    <attr name="textColor" format="reference|color" />
+    <attr name="textSize" format="reference|dimension" />
+    <attr name="drawablePadding" format="reference|dimension" />
+    <attr name="rb_color" format="color" />
+    <attr name="rb_strokeWidth" format="dimension" />
+    <attr name="rb_radius" format="dimension" />
+    <attr name="rb_duration" format="integer" />
+    <attr name="rb_rippleAmount" format="integer" />
+    <attr name="rb_scale" format="float" />
+
+    <attr name="leftIcon" format="reference|color" />
+    <attr name="rightText" format="reference|string" />
+    <attr name="title" format="reference|string" />
+    <attr name="rightImg" format="reference|string" />
+</resources>

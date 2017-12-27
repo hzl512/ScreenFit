@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="win_help_title">
+        <item>导航</item>
+        <item>生活周边</item>
+        <item>音乐</item>
+        <item>电话</item>
+        <item>日历</item>
+        <item>百科</item>
+        <item>股票</item>
+        <item>天气</item>
+        <item>微信</item>
+        <item>位置</item>
+        <item>本地控制</item>
+        <item>笑话</item>
+    </string-array>
+    <string-array name="win_help_intro">
+        <item>我要去世界之窗，欢乐谷怎么走，我要回家/公司</item>
+        <item>附近的肯德基，欢乐谷附近的川菜，我饿了</item>
+        <item>我要听歌，来一首刘德华的忘情水，下一首</item>
+        <item>打电话给张三，呼叫134XXXXX494</item>
+        <item>现在是几点，今年除夕是几号，上周三是几号</item>
+        <item>刘德华是谁</item>
+        <item>腾讯的股价，上证指数</item>
+        <item>明天的天气怎么样，今天适合洗车吗</item>
+        <item>发微信给张三，关闭微信播报，退出微信</item>
+        <item>我现在在哪儿</item>
+        <item>打开蓝牙，降低音量，增加亮度</item>
+        <item>讲个笑话</item>
+    </string-array>
+    <string-array name="win_help_desps">
+        <item>"北京怎么走/我要去北京
+我要回家/我要去公司"</item>
+        <item>"欢乐谷附近的川菜
+我想上网
+我要健身
+附近的肯德基
+我要吃烧烤"</item>
+        <item>"我要听歌
+听忘情水
+我要听刘德华的忘情水"</item>
+        <item>"打电话给张三
+呼叫134XXXXX494/打电话给134XXXXX494"</item>
+        <item>"现在是几点
+今年除夕是几号
+圣诞节是农历几号
+上周三是几号"</item>
+        <item>刘德华是谁</item>
+        <item>"腾讯的股票是多少
+查一下上证指数"</item>
+        <item>"明天的天气怎么样
+空气质量怎么样
+深圳的天气"</item>
+        <item>"发微信/发微信给张三（联系人）
+关闭微信播报/关闭自动播报
+退出微信/退出车载微信"</item>
+        <item>我现在在哪儿</item>
+        <item>"打开蓝牙
+降低音量
+增加亮度"</item>
+        <item>讲个笑话</item>
+    </string-array>
+    <string-array name="win_delp_icon_name">
+        <item>win_help_daohang</item>
+        <item>win_help_zhoubian</item>
+        <item>win_help_diantai</item>
+        <item>win_help_dianhua</item>
+        <item>win_help_rili</item>
+        <item>win_help_baike</item>
+        <item>win_help_gupiao</item>
+        <item>win_help_tianqi</item>
+        <item>win_help_wechat</item>
+        <item>win_help_location</item>
+        <item>win_help_control</item>
+        <item>win_help_joke</item>
+    </string-array>
+</resources>
